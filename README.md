@@ -1,6 +1,8 @@
 # Disney+_Hotstar_clone_(2022)
 
-A fully responsive Disney+ Hotstar clone built using modern web technologies, replicating the interface and functionality of the popular streaming platform.
+## 📌 Project Overview
+
+This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaScript**. The project replicates the **UI/UX** of the popular streaming platform, featuring responsive design, navigation menus, and content sections.
 
 Example of the Disney+ Hotstar Clone Interface.
 
