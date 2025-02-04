@@ -2,11 +2,13 @@
 
 ## 📌 Project Overview
 
-This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaScript**. The project replicates the **UI/UX** of the popular streaming platform, featuring responsive design, navigation menus, and content sections.
+This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaScript**. The project replicates the popular streaming platform's **UI/UX**, featuring responsive design, navigation menus, and content sections.
 
 ## ✨ Features
 
-**🎨 Modern UI**: Styled using CSS and Bootstrap for a sleek and attractive look.
+ - **🎨 Modern UI**: Styled using CSS and Bootstrap for a sleek and attractive look.
+ - **📱 Responsive Design**: Works across all devices - desktop, tablet, and mobile.
+
 
 Example of the Disney+ Hotstar Clone Interface.
 
