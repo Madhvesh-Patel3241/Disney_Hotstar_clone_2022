@@ -13,6 +13,9 @@ This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaSc
  - **📜 Navbar & Footer**: Well-structured navigation bar and footer similar to the original.
  - **⚡ Fast & Lightweight**: Uses optimized assets for better performance.
 
+## 🛠️ Technologies Used
+ - **HTML** – Structure of the webpage.
+ - **CSS** – Styling and layout.
 
 Example of the Disney+ Hotstar Clone Interface.
 
