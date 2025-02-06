@@ -16,6 +16,9 @@ This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaSc
 ## 🛠️ Technologies Used
  - **HTML** – Structure of the webpage.
  - **CSS** – Styling and layout.
+ - **Bootstrap** – Responsive grid and pre-styled components.
+ - **JavaScript** – Dynamic and interactive elements.
+
 
 Example of the Disney+ Hotstar Clone Interface.
 
