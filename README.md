@@ -33,6 +33,16 @@ This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaSc
 
        Open index.html
 
+ ## 📂 Folder Structure
+
+      DisneyPlusHotstar_Clone/
+      │── Disney clone.html         # Main HTML file
+      │── styles.css                # Custom CSS file
+      │── index.js                  # JavaScript for interactivity
+      │── images                    # Images, icons
+      │── videos                    # Videos
+      │── README.md                 # Project documentation
+
 
 
 Example of the Disney+ Hotstar Clone Interface.
