@@ -19,6 +19,21 @@ This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaSc
  - **Bootstrap** – Responsive grid and pre-styled components.
  - **JavaScript** – Dynamic and interactive elements.
 
+## 🚀 How to Run the Project
+
+1. Clone the repository
+
+       git clone https://github.com/your-username/DisneyPlusHotstar_Clone.git
+
+2. Navigate to the project directory
+
+       cd DisneyPlusHotstar_Clone
+
+3. Open the index.html file in a browser
+
+       Open index.html
+
+
 
 Example of the Disney+ Hotstar Clone Interface.
 
