@@ -44,6 +44,10 @@ This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaSc
       │── README.md                 # Project documentation
 
 
+## 🤝 Contributing
+
+Feel free to contribute to this project! Fork the repository and submit a pull request with your enhancements.
+
 
 Example of the Disney+ Hotstar Clone Interface.
 
