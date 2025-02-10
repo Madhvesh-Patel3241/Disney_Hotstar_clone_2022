@@ -47,6 +47,8 @@ This **Disney+ Hotstar Clone** is built using **HTML, CSS, Bootstrap, and JavaSc
 
 ![Screenshot 2025-02-09 201310](https://github.com/user-attachments/assets/65feb0a4-ca02-4858-94b5-6f48ae6c9a01)
 
+![Screenshot 2025-02-10 105109](https://github.com/user-attachments/assets/d1590394-8994-496d-8345-0996ee9ad870)
+
 
 ## 🤝 Contributing
 
